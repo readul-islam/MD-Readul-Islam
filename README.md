@@ -23,9 +23,9 @@
 
 - 📫 How to reach me **developer.readul@gmail.com**
 
-- ⚡ Fun fact [I like solving challenges.](I like solving challenges.)
+- ⚡ Fun fact: I like solving challenges
 
-- 🤑 I think: **Programming is 70% thinking and 30% writing.**
+- 🤑 I think: Programming is **70%** thinking and **30%** writing.
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -50,9 +50,8 @@
 #### Tools:  
 [![My Skills](https://skillicons.dev/icons?i=vscode,vite,linux,git,github,ai,ps&perline=6)]()
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=readul-islam&show_icons=true&locale=en&layout=compact" alt="readul-islam" />
-</p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=readul-islam&show_icons=true&locale=en" alt="readul-islam" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=readul-islam&" alt="readul-islam" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=readul-islam&show_icons=true&locale=en" alt="readul-islam" /></p><p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=readul-islam&show_icons=true&locale=en&layout=compact" alt="readul-islam" />
+</p>
+
