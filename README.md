@@ -19,7 +19,7 @@
 
 - 📄 Know about my experiences [https://drive.google.com/file/d/1HKVk3aoWOsSKYNdAFnGFD4RTufTuGcKs/view?usp=sharing](https://drive.google.com/file/d/1HKVk3aoWOsSKYNdAFnGFD4RTufTuGcKs/view?usp=sharing)
 
-- 💬 Ask me about **MERN Stack, PostreSQL, mySQL, NEXTJS**
+- 💬 Ask me about **MERN Stack, PostgreSQL, MySQL, NextJS**
 
 - 📫 How to reach me **developer.readul@gmail.com**
 
