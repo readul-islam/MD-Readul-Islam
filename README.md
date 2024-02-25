@@ -11,11 +11,11 @@
 
 - 🔭 I’m currently working on [90T0.Recipe](www.90to.com)
 
-- 🌱 I’m currently learning **DevOps and Networking**
+- 👨🏻‍💻 I’m currently learning **DevOps and Networking**
 
 - 🤝 I’m looking for help with **learning DevOps**
 
-- 👨‍💻 All of my projects are available at [https://developer-readul.xyz](https://developer-readul.xyz)
+- 🌐 All of my projects are available at [https://developer-readul.xyz](https://developer-readul.xyz)
 
 - 📄 Know about my experiences [https://drive.google.com/file/d/1HKVk3aoWOsSKYNdAFnGFD4RTufTuGcKs/view?usp=sharing](https://drive.google.com/file/d/1HKVk3aoWOsSKYNdAFnGFD4RTufTuGcKs/view?usp=sharing)
 
