@@ -25,7 +25,7 @@
 
 - ⚡ Fun fact: I like solving challenges
 
-- 🤑 I think: Programming is **70%** thinking and **30%** writing.
+- 🤑 I think: **Patience** and **resilience** are key attributes that contribute to an individual's success.
 
 
 | <img height="200em"  src="https://github-readme-streak-stats.herokuapp.com/?user=readul-islam&hide_border=true" alt="readul-islam" />  |![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=readul-islam&show_icons=true&hide_border=true&layout=compact&langs_count=10) |
