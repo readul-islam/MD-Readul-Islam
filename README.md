@@ -15,9 +15,9 @@
 
 - 🤝 I’m looking for help with **learning DevOps**
 
-- 🌐 All of my projects are available at [https://developer-readul.xyz](https://developer-readul.xyz)
+- 🌐 All of my projects are available at [profile](https://developer-readul.xyz)
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1HKVk3aoWOsSKYNdAFnGFD4RTufTuGcKs/view?usp=sharing](https://drive.google.com/file/d/1HKVk3aoWOsSKYNdAFnGFD4RTufTuGcKs/view?usp=sharing)
+- 📄 Know about my experiences [resume](https://drive.google.com/file/d/1HKVk3aoWOsSKYNdAFnGFD4RTufTuGcKs/view?usp=sharing)
 
 - 💬 Ask me about **MERN Stack, PostgreSQL, MySQL, NextJS**
 
