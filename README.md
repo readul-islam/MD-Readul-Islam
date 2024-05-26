@@ -21,7 +21,7 @@
 
 - 💬 Ask me about **MERN Stack, PostgreSQL, MySQL, NextJS**
 
-- 📫 How to reach me **developer.readul@gmail.com**
+- 📫 How to reach me **readul.akash@shortcircuit.science**
 
 - ⚡ Fun fact: I like solving challenges
 
