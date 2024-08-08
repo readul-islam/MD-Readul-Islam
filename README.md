@@ -54,6 +54,9 @@
 #### Tools:  
 [![My Skills](https://skillicons.dev/icons?i=vscode,vite,linux,git,github,ai,ps&perline=6)]()
 
+## Certificate
+<a href="https://udemy-certificate.s3.amazonaws.com/image/UC-04278a58-966e-4048-ae3f-6f8f845f6b6b.jpg" target="blank"><img align="center" src="https://udemy-certificate.s3.amazonaws.com/image/UC-04278a58-966e-4048-ae3f-6f8f845f6b6b.jpg" alt="md-readul-islam" height="30" width="40" /></a>
+
 
 
 
