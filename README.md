@@ -57,16 +57,16 @@
 ## Certificate
 <div style="display: grid; grid-template-columns: repeat(1fr , 1fr, 1fr); gap: 10px; justify-items: center;">
   <a href="https://udemy-certificate.s3.amazonaws.com/image/UC-04278a58-966e-4048-ae3f-6f8f845f6b6b.jpg" target="_blank">
-    <img src="https://udemy-certificate.s3.amazonaws.com/image/UC-04278a58-966e-4048-ae3f-6f8f845f6b6b.jpg" alt="Certificate" width="200"/>
+    <img src="https://udemy-certificate.s3.amazonaws.com/image/UC-04278a58-966e-4048-ae3f-6f8f845f6b6b.jpg" alt="Certificate" width="400"/>
   </a>
   <a href="https://udemy-certificate.s3.amazonaws.com/image/UC-04278a58-966e-4048-ae3f-6f8f845f6b6b.jpg" target="_blank">
-    <img src="https://udemy-certificate.s3.amazonaws.com/image/UC-04278a58-966e-4048-ae3f-6f8f845f6b6b.jpg" alt="Certificate" width="200"/>
+    <img src="https://udemy-certificate.s3.amazonaws.com/image/UC-04278a58-966e-4048-ae3f-6f8f845f6b6b.jpg" alt="Certificate" width="400"/>
   </a>
   <a href="https://udemy-certificate.s3.amazonaws.com/image/UC-04278a58-966e-4048-ae3f-6f8f845f6b6b.jpg" target="_blank">
-    <img src="https://udemy-certificate.s3.amazonaws.com/image/UC-04278a58-966e-4048-ae3f-6f8f845f6b6b.jpg" alt="Certificate" width="200"/>
+    <img src="https://udemy-certificate.s3.amazonaws.com/image/UC-04278a58-966e-4048-ae3f-6f8f845f6b6b.jpg" alt="Certificate" width="400"/>
   </a>
   <a href="https://udemy-certificate.s3.amazonaws.com/image/UC-04278a58-966e-4048-ae3f-6f8f845f6b6b.jpg" target="_blank">
-    <img src="https://udemy-certificate.s3.amazonaws.com/image/UC-04278a58-966e-4048-ae3f-6f8f845f6b6b.jpg" alt="Certificate" width="200"/>
+    <img src="https://udemy-certificate.s3.amazonaws.com/image/UC-04278a58-966e-4048-ae3f-6f8f845f6b6b.jpg" alt="Certificate" width="400"/>
   </a>
 </div>
 
