@@ -11,9 +11,9 @@
 
 - 🔭 I’m currently working on Slack Clone
 
-- 👨🏻‍💻 I’m currently learning **DevOps and Networking**
+- 👨🏻‍💻 I’m currently learning **Data Structures & Algorithms**
 
-- 🤝 I’m looking for help with **learning DevOps**
+- 🤝 I’m looking for help with **learning Data Structures & Algorithms**
 
 - 🌐 All of my projects are available at [profile](https://developer-readul.xyz)
 
