@@ -9,7 +9,7 @@
 </p>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=readul-islam&label=Profile%20views&color=0e75b6&style=flat" alt="readul-islam" /> </p>
 
-- 🔭 I’m currently working on [Slack Clone]
+- 🔭 I’m currently working on Slack Clone
 
 - 👨🏻‍💻 I’m currently learning **DevOps and Networking**
 
