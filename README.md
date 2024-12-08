@@ -9,7 +9,7 @@
 </p>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=readul-islam&label=Profile%20views&color=0e75b6&style=flat" alt="readul-islam" /> </p>
 
-- 🔭 I’m currently working on Standard Insights.
+- 🔭 I’m currently working on  [Standard Insights](https://standard-insights.com).
 
 - 👨🏻‍💻 I’m currently learning **Data Structures & Algorithms**
 
